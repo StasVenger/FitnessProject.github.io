@@ -1,2 +1,2 @@
-# FitnessProject.github.io
+# fitproject.github.io
 Fitness web site
